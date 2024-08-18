@@ -158,7 +158,7 @@ async def button(update: Update, context: ContextTypes.DEFAULT_TYPE):
 if __name__ == '__main__':
     args = sys.argv
     TOKEN=args[1]
-    YOUR_USER_ID=args[2]
+    YOUR_USER_ID=int(args[2])
     print("1")
     app = ApplicationBuilder().token(TOKEN).build()
 
