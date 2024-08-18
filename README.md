@@ -1,8 +1,8 @@
-# Telegram-私信机器人
+## Telegram-私信机器人
 Telegram私聊机器人，用于信息的接收、发送、管理、禁止等
 
-## 一、创建TG机器人，获取机器人`Token`，并设置机器人命令描述
-### 1.打开Telegram搜索[@BotFather](https://t.me/BotFather)，或点击直达
+### 一、创建TG机器人，获取机器人`Token`，并设置机器人命令描述
+#### 1.打开Telegram搜索[@BotFather](https://t.me/BotFather)，或点击直达
 
 ![image](https://github.com/user-attachments/assets/c38accac-011d-4f78-9e54-c9e256493c14) 
 
@@ -22,7 +22,7 @@ Telegram私聊机器人，用于信息的接收、发送、管理、禁止等
 
 ![image](https://github.com/user-attachments/assets/3f04b164-7bea-4697-85a6-8a003820e34e)
 
-3.设置机器人命令及描述
+#### 3.设置机器人命令及描述
 
 1）输入`/mybots`，点击刚刚创建的机器人
 
@@ -45,12 +45,12 @@ exit_1v1 - 退出1v1
 ```
 ![image](https://github.com/user-attachments/assets/503c2aa9-d5ca-4621-bb07-b1f873df2f90)
 
-# 二、获取个人用户ID
-1.打开Telegram搜索[@KinhRoBot](https://t.me/KinhRoBot)，或点击直达
+### 二、获取个人用户ID
+#### 1.打开Telegram搜索[@KinhRoBot](https://t.me/KinhRoBot)，或点击直达
 
 ![image](https://github.com/user-attachments/assets/d86ff2b6-d308-4cf6-8859-07545043f3be)
 
-2.输入`/id`命令，得到个人`用户ID`，备用ℹ️ℹ️ℹ️
+#### 2.输入`/id`命令，得到个人`用户ID`，备用ℹ️ℹ️ℹ️
 
 ![image](https://github.com/user-attachments/assets/2f9727be-2e0e-44eb-912d-81951ca4a797)
 
