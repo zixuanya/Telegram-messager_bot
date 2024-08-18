@@ -13,7 +13,7 @@ PROCESS_NAME="python "$SCRIPT_DIR/homing_pigeon_bot.py" "$TOKEN" "$YOUR_USER_ID"
 if pgrep -f "$PROCESS_NAME" > /dev/null; then
     echo "进程 '$PROCESS_NAME' 已经在运行。"
 else
-    echo "进程 '$PROCESS_NAME' 不存在，启动新进程。"
+    echo "进程不存在，启动新进程。"
 
     # 启动进程
     nohup python "$SCRIPT_DIR/homing_pigeon_bot.py" "$TOKEN" "$YOUR_USER_ID" > /dev/null 2>&1 &
