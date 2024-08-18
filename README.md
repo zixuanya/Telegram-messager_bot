@@ -10,7 +10,7 @@ Telegram私聊机器人，用于信息的接收、发送、管理、禁止等
 
 ![image](https://github.com/user-attachments/assets/f4fb358d-8449-4a05-aa70-be5c9b639d8d)
 
-2.创建一个私聊机器人，并获取机器人`Token`
+#### 2.创建一个私聊机器人，并获取机器人`Token`
 
 1）进入机器人输入命令`/newbot`或者选择菜单命令`/newbot`
 
