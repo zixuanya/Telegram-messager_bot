@@ -46,16 +46,16 @@ exit_1v1 - 退出1v1
 ![image](https://github.com/user-attachments/assets/503c2aa9-d5ca-4621-bb07-b1f873df2f90)
 
 ### 二、获取个人用户ID
-#### 1.打开Telegram搜索[@KinhRoBot](https://t.me/KinhRoBot)，或点击直达
+1.打开Telegram搜索[@KinhRoBot](https://t.me/KinhRoBot)，或点击直达
 
 ![image](https://github.com/user-attachments/assets/d86ff2b6-d308-4cf6-8859-07545043f3be)
 
-#### 2.输入`/id`命令，得到个人`用户ID`，备用ℹ️ℹ️ℹ️
+2.输入`/id`命令，得到个人`用户ID`，备用ℹ️ℹ️ℹ️
 
 ![image](https://github.com/user-attachments/assets/2f9727be-2e0e-44eb-912d-81951ca4a797)
 
 
-# 三、服务器部署
+### 三、服务器部署
 1.安装依赖
 ```
 pip install python-telegram-bot
