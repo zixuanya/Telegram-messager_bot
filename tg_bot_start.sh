@@ -17,7 +17,7 @@ else
 
     # 启动进程
     nohup python "$SCRIPT_DIR/homing_pigeon_bot.py" "$TOKEN" "$YOUR_USER_ID" > /dev/null 2>&1 &
-    sleep 5
+    sleep 2
 
     echo "进程 '$PROCESS_NAME' 已启动。"
 fi
