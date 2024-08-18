@@ -19,6 +19,7 @@ Telegram私聊机器人，用于信息的接收、发送、管理、禁止等
 ![image](https://github.com/user-attachments/assets/3f04b164-7bea-4697-85a6-8a003820e34e)
 
 3.设置机器人命令及描述
+
 1）输入`/mybots`，点击刚刚创建的机器人
 
 ![image](https://github.com/user-attachments/assets/65a9a6ca-ea76-47a2-bb08-ba3c3d50c487)
