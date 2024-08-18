@@ -68,7 +68,7 @@ chmod +x ./tg_bot_start.sh ./tg_bot_stop.sh
 3.复制下列命令，修改其中TOKEN和YOUR_USER_ID的值，将机器人的`Token`填入脚本`" "`中（注意将值填入双引号中，保留双引号）。你的`用户ID`同理。终端执行
 ```python
 #修改脚本中TOKEN和YOUR_USER_ID的值，将机器人的Token填入脚本" "中（注意将值填入双引号中，保留双引号）。你的用户ID同理
-sed -i '' 's/^TOKEN=.*/TOKEN="机器人的Token"/; s/^YOUR_USER_ID=.*/YOUR_USER_ID="你的用户ID"/' tg_bot_start.sh ./tg_bot_stop.sh
+sed -i '' 's/^TOKEN=.*/TOKEN="机器人的Token"/; s/^YOUR_USER_ID=.*/YOUR_USER_ID="你的用户ID"/' tg_bot_start.sh tg_bot_stop.sh
 ```
 4.终端输入下面命令执行启动脚本，机器人部署完毕，并且开始运行，可以去tg尝试ok不ok。
 ```
