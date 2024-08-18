@@ -1,8 +1,8 @@
 # Telegram-私信机器人
 Telegram私聊机器人，用于信息的接收、发送、管理、禁止等
 
-# 一、创建TG机器人，获取机器人`Token`，并设置机器人命令描述
-1.打开Telegram搜索[@BotFather](https://t.me/BotFather)，或点击直达
+## 一、创建TG机器人，获取机器人`Token`，并设置机器人命令描述
+###1.打开Telegram搜索[@BotFather](https://t.me/BotFather)，或点击直达
 
 ![image](https://github.com/user-attachments/assets/c38accac-011d-4f78-9e54-c9e256493c14) 
 
