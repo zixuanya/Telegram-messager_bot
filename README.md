@@ -7,6 +7,7 @@ Telegram私聊机器人，用于信息的接收、发送、管理、禁止等
 ![image](https://github.com/user-attachments/assets/c38accac-011d-4f78-9e54-c9e256493c14) 
 
 ⚠️带认证且用户名为[@BotFather](https://t.me/BotFather)，主页描述如下图，不要搞错了
+
 ![image](https://github.com/user-attachments/assets/f4fb358d-8449-4a05-aa70-be5c9b639d8d)
 
 2.创建一个私聊机器人，并获取机器人`Token`
