@@ -118,7 +118,7 @@ async def enter_private_chat(update: Update, context: ContextTypes.DEFAULT_TYPE)
             for i in range(min(len(recent_chatters), 4))
         ]
         reply_markup = InlineKeyboardMarkup(keyboard)
-        await update.message.reply_text("选择要1v1的聊天者:", reply_markup=reply_markup)
+        await update.message.reply_text("选择要1v1的聊天对象", reply_markup=reply_markup)
     else:
         await update.message.reply_text("您无权进行此操作，您只能向我发消息")
 
